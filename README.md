@@ -24,7 +24,7 @@ Follow these steps to run the app on your local machine:
 ### 🔧 Setup Instructions
 1️⃣ **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/time-zone-app.git
+   git clone https://github.com/muzaffar401/Time_Zone_App.git
    cd time-zone-app
    ```
 2️⃣ **Install dependencies**:
