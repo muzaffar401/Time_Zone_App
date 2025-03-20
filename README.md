@@ -45,7 +45,7 @@ Follow these steps to run the app on your local machine:
    - Click **Convert Time** to see the converted time.
 
 ## 📸 Example Screenshot
-*(Add a screenshot here if possible)*
+![image](https://github.com/user-attachments/assets/ab4a443e-25b8-4671-9f4c-73193f367c97)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
